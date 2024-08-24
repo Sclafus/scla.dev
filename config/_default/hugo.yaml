@@ -1,4 +1,4 @@
-title: My New Hugo Site
+title: Scla
 theme: blowfish
 baseURL: https://scla.dev
 
@@ -12,3 +12,17 @@ sitemap:
   changefreq: always
   filename: sitemap.xml
   priority: 0.5
+
+params:
+  dateFormat: 2 January 2006
+
+author:
+  name: Scla
+  email: me@scla.dev
+  bio: Software Engineer & Open Source Enthusiast
+  headline: Software Engineer & Open Source Enthusiast
+  image: avatar.png
+  links:
+    - github: https://github.com/Sclafus
+    - instagram: https://instagram.com/Sclafus
+    - osu: https://osu.ppy.sh/users/Scla

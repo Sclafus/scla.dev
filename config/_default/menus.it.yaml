@@ -1,7 +1,3 @@
 main:
-  - name: About
-    pageRef: about
-
-footer:
-  - name: Authors
-    pageRef: authors
+  - name: Progetti
+    pageRef: projects

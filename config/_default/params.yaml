@@ -11,15 +11,17 @@ header:
 footer:
   showThemeAttribution: false # TODO: text is too long, change it and re-enable
 
-homepage: 
+homepage:
   layout: hero
 
 article:
   showDate: false
-  showAuthor: false
+  showAuthor: true
+  showAuthorBottom: true
   showReadingTime: false
   showTableOfContents: true
   showWordCount: false
   showEdit: true
+  showZenMode: true
   editUrl: https://github.com/Sclafus/scla.dev/tree/senpai/content
   editAppendPath: true
