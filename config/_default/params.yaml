@@ -1,0 +1,25 @@
+autoSwitchAppearance: true
+colorScheme: blowfish
+defaultAppearance: dark
+defaultBackgroundImage: /img/fireflies.svg
+enableCodeCopy: true
+smartTOC: true
+
+header:
+  layout: fixed
+
+footer:
+  showThemeAttribution: false # TODO: text is too long, change it and re-enable
+
+homepage: 
+  layout: hero
+
+article:
+  showDate: false
+  showAuthor: false
+  showReadingTime: false
+  showTableOfContents: true
+  showWordCount: false
+  showEdit: true
+  editUrl: https://github.com/Sclafus/scla.dev/tree/senpai/content
+  editAppendPath: true

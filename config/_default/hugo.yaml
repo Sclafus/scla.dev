@@ -1,4 +1,14 @@
-baseURL: https://scla.dev
-languageCode: en-us
 title: My New Hugo Site
 theme: blowfish
+baseURL: https://scla.dev
+
+defaultContentLanguage: en
+disableLanguages: []
+
+enableRobotsTXT: true
+enableEmoji: true
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 0.5

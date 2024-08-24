@@ -1,0 +1,20 @@
+languageCode: en
+languageName: English
+weight: 1
+title: Scla
+
+params:
+  displayName: EN 🇬🇧
+  isoCode: en
+  dateFormat: 2 January 2006
+  description: My english language YAML
+  logo: 
+
+author:
+  name: Scla
+  email: me@scla.dev
+  bio: Hello World
+  links:
+    - github: https://github.com/Sclafus
+    - telegram: https://t.me/Sclafus
+    - instagram: https://instagram.com/Sclafus

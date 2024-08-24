@@ -1,0 +1,19 @@
+languageCode: it
+languageName: Italiano 
+weight: 1
+title: Scla
+
+params:
+  displayName: IT 🇮🇹
+  isoCode: it
+  dateFormat: 2 Gennaio 2006
+  description: Il mio YAML in italiano
+
+author:
+  name: Scla
+  email: me@scla.dev
+  bio: Ciao Mondo
+  links:
+    - github: https://github.com/Sclafus
+    - telegram: https://t.me/Sclafus
+    - instagram: https://instagram.com/Sclafus
